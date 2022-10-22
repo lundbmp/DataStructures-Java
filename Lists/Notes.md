@@ -9,5 +9,9 @@
 + You can look at ALL items
 + You can see if a list is empty
 
+some more things to consider:
+What if we use toArray on an empty list? How should we handle it?
++ We could return an empty array
++ We could throw an exception
 
 ## Linked List
