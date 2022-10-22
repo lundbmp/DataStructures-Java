@@ -1,8 +1,9 @@
 import Bag.Backpack;
+import Bag.Bag;
 
 public class Main {
     public static void main(String[] args) {
-        Backpack backpack = new Backpack();
+        Bag backpack = new Backpack();
 
         System.out.println(backpack.isEmpty());
 
